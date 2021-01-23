@@ -11,6 +11,8 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: JackSteel97/JackSteel97@main
+      - uses: actions/checkout@v1
+      - name: First Step
+        uses: ./.github/actions/Waka Readme
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
