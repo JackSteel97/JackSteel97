@@ -1,4 +1,7 @@
 <p align="center">
+  <img align="center" src="https://github.com/JackSteel97/JackSteel97/blob/main/header.png?raw=true" alt="Hi, I'm Jack Steel" /> 
+ </p>
+<p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksteel97&show_icons=true&count_private=true&theme=dracula" alt="Jack's Github Stats" /> 
 </p>
 
@@ -9,18 +12,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 36 Contributions in the Year 2021
- > 
-> 📦 1.8 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
