@@ -56,5 +56,3 @@ No Activity Tracked This Week
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksteel97&langs_count=10&layout=compact&theme=dracula" alt="Jack's Github Language" /> 
 </p>
-
-<hr />
