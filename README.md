@@ -1,5 +1,6 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacksteel97&show_icons=true&count_private=true&theme=dracula" alt="Jack's Github Stats" width="45%" /> 
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksteel97&show_icons=true&count_private=true&theme=dracula" alt="Jack's Github Stats" /> 
+</p>
 
 <hr/>
 
