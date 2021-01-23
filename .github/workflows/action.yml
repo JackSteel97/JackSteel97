@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: First Step
-        uses: ./.github/workflows/wakareadme
+        uses: ./.github/workflows
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
