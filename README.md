@@ -9,7 +9,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/JackSteel97/JackSteel97?color=blue&label=Profile%20Visits)](https://github.com/JackSteel97)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-839064%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -43,9 +43,6 @@ Other                    7 mins              ███████████�
 
 🔥 Editors: 
 Visual Studio            18 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-SteelBot                 18 mins             █████████████████████████   100.0%
 
 ```
 
