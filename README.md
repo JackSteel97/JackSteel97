@@ -38,16 +38,15 @@ Sunday       36 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████░░░░░░░░░░░░   52.27% 
-Other                    2 mins              ████████████░░░░░░░░░░░░░   47.73%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <hr/>
