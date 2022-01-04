@@ -38,16 +38,15 @@ Sunday       38 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 mins             █████████████░░░░░░░░░░░░   53.51% 
-C#                       18 mins             ███████████░░░░░░░░░░░░░░   46.49%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 <hr/>
