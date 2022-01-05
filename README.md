@@ -9,6 +9,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/JackSteel97/JackSteel97?color=blue&label=Profile%20Visits)](https://github.com/JackSteel97)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2029%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -25,11 +27,11 @@
 ```text
 Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
 Tuesday      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
-Wednesday    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
 Thursday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
 Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
 Saturday     57 commits     ████████░░░░░░░░░░░░░░░░░   34.13% 
-Sunday       38 commits     █████░░░░░░░░░░░░░░░░░░░░   22.75%
+Sunday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.56%
 
 ```
 
@@ -38,10 +40,10 @@ Sunday       38 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 min               █████████████████████████   100.0%
 
 ```
 
