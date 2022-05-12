@@ -9,7 +9,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/JackSteel97/JackSteel97?color=blue&label=Profile%20Visits)](https://github.com/JackSteel97)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-936%20Thousand%20lines%20of%20code-blue)
 
@@ -40,17 +40,17 @@ Sunday       43 commits     ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 9 mins        █████████████████████░░░░   84.65% 
-Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+C#                       7 hrs 32 mins       █████████████████████░░░░   83.57% 
+Other                    1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-Visual Studio            9 hrs 38 mins       █████████████████████████   100.0%
+Visual Studio            9 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/05/2022 01:55:43 UTC
+ Last Updated on 12/05/2022 01:52:28 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
