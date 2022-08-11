@@ -40,15 +40,15 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 29/07/2022 02:05:54 UTC
+ Last Updated on 11/08/2022 01:50:58 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
