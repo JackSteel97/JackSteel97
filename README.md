@@ -9,46 +9,12 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/JackSteel97/JackSteel97?color=blue&label=Profile%20Visits)](https://github.com/JackSteel97)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856%20Thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84% 
-🌆 Daytime    74 commits     ███████████░░░░░░░░░░░░░░   45.4% 
-🌃 Evening    71 commits     ███████████░░░░░░░░░░░░░░   43.56% 
-🌙 Night      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Friday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47% 
-Saturday     32 commits     █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-Sunday       37 commits     █████░░░░░░░░░░░░░░░░░░░░   22.7%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/09/2022 02:10:21 UTC
+ Last Updated on 05/09/2022 02:17:08 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
