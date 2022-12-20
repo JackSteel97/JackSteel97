@@ -57,5 +57,5 @@ Rider                    5 hrs 2 mins        ███████████�
 <hr/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksteel97&langs_count=10&layout=compact&theme=dracula" alt="Jack's Github Language" /> 
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacksteel97&theme=2077" alt="Jack's Github Languages" /> 
 </p>
