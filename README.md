@@ -7,7 +7,7 @@
 
 <hr/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/JackSteel97/JackSteel97?color=blue&label=Profile%20Visits)](https://github.com/JackSteel97)
+![](https://komarev.com/ghpvc/?username=jacksteel97&color=blue)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs-blue)
 
