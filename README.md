@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jacksteel97&color=blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-863%20Thousand%20lines%20of%20code-blue)
 
@@ -40,15 +40,18 @@ Sunday       27 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       30 mins             █████████████████████░░░░   87.0% 
+XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Csproj                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    34 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/01/2023 01:26:51 UTC
+ Last Updated on 13/01/2023 01:27:06 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
