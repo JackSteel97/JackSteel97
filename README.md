@@ -40,16 +40,15 @@ Sunday       27 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       17 mins             ████████████████████████░   98.88% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27/01/2023 01:25:47 UTC
+ Last Updated on 28/01/2023 01:25:55 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
